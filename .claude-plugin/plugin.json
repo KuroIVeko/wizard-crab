@@ -1,0 +1,9 @@
+{
+  "name": "wizard-crab",
+  "version": "0.3.1",
+  "description": "An animated wizard crab above the prompt with model, effort, context, cache, speed and per-turn token metrics.",
+  "author": { "name": "KuroIVeko", "url": "https://github.com/KuroIVeko" },
+  "homepage": "https://github.com/KuroIVeko/wizard-crab",
+  "repository": "https://github.com/KuroIVeko/wizard-crab",
+  "types": "./types/index.d.ts"
+}

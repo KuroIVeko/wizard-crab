@@ -1,0 +1,6 @@
+{
+  "name": "wizard-crab",
+  "description": "Wizard Crab: an animated terminal companion and token metrics for Claude Code.",
+  "owner": { "name": "KuroIVeko" },
+  "plugins": [{ "name": "wizard-crab", "source": "./" }]
+}
